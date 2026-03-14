@@ -1,6 +1,6 @@
 # Hi there, I'm David Lozada! 👋
 
-### 👨‍💻 Full-Stack Developer | Computer Engineer
+### 👨‍💻 Full-Stack Developer | Informatic Engineer
 
 I am a passionate developer focused on building scalable web applications and high-performance systems. I enjoy bridging the gap between complex backend logic and intuitive frontend design.
 
