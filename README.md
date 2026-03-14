@@ -6,6 +6,7 @@
  - I'm an Informatic Engineer, Full-Stack Developer.
  - Techstack: `.js`, `.jsx`, `.ts`, `.tsx`, `.py`, `.php`.
 
+## Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=david-lozada&theme=monokai)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-lozada&langs_count=8)
