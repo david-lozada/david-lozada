@@ -1,6 +1,6 @@
-# Hi there, I'm David Lozada! 👋
+# Hi there, I'm Greuddy Lozada! 👋
 
-### 👨‍💻 Full-Stack Developer | Informatic Engineer
+### 👨‍💻 Full-Stack Developer | Informatic Engineer | QA & Tester
 
 I am a passionate developer focused on building scalable web applications and high-performance systems. I enjoy bridging the gap between complex backend logic and intuitive frontend design.
 
@@ -30,8 +30,8 @@ I am a passionate developer focused on building scalable web applications and hi
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=david-lozada&show_icons=true&theme=tokyonight" alt="David's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-lozada&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=greuddy-lozada&show_icons=true&theme=tokyonight" alt="Greuddy's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greuddy-lozada&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
 </p>
 
 ---
@@ -40,4 +40,4 @@ I am a passionate developer focused on building scalable web applications and hi
 
 - 🌐 **Portfolio:** [davidlozada.cv](https://davidlozada.cv)
 - 📧 **Email:** [greuddylozada@gmail.com](mailto:greuddylozada@gmail.com)
-- 🐙 **Follow me:** [![Follow on GitHub](https://img.shields.io/github/followers/david-lozada?label=Follow&style=social)](https://github.com/david-lozada)
+- 🐙 **Follow me:** [![Follow on GitHub](https://img.shields.io/github/followers/greuddy-lozada?label=Follow&style=social)](https://github.com/greuddy-lozada)
